@@ -1,0 +1,23 @@
+2020-06-09 15:02:42,917 [DEBUG] 日志初使化成功
+2020-06-09 15:02:46,153 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":50,"ExposureTimeRaw":20,"BinningHorizontal":4,"BinningVertical":4,"Width":344,"Height":260,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 15:02:46,526 [DEBUG] ProgFrameTimeAbs=50 20000.000000
+2020-06-09 15:05:21,108 [DEBUG] 日志初使化成功
+2020-06-09 15:05:24,429 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":50,"ExposureTimeRaw":20,"BinningHorizontal":4,"BinningVertical":4,"Width":480,"Height":270,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 15:05:24,629 [DEBUG] ProgFrameTimeAbs=50 20000.000000
+2020-06-09 15:05:43,575 [DEBUG] maxExposure 20000 value=20000
+2020-06-09 15:05:43,575 [DEBUG] maxExposurevalue=20000
+2020-06-09 15:05:50,799 [DEBUG] maxExposure 20000 value=12500
+2020-06-09 15:05:50,799 [DEBUG] maxExposurevalue=12500
+2020-06-09 15:05:50,825 [DEBUG] maxExposure 20000 value=12500
+2020-06-09 15:05:50,825 [DEBUG] maxExposurevalue=12500
+2020-06-09 15:05:56,736 [DEBUG] maxExposure 20000 value=12500
+2020-06-09 15:05:56,736 [DEBUG] maxExposurevalue=12500
+2020-06-09 15:05:56,761 [DEBUG] maxExposure 20000 value=12500
+2020-06-09 15:05:56,761 [DEBUG] maxExposurevalue=12500
+2020-06-09 15:05:58,663 [DEBUG] maxExposure 20000 value=12500
+2020-06-09 15:05:58,664 [DEBUG] maxExposurevalue=12500
+2020-06-09 15:05:58,688 [DEBUG] maxExposure 20000 value=12500
+2020-06-09 15:05:58,688 [DEBUG] maxExposurevalue=12500
+2020-06-09 15:07:33,432 [DEBUG] 日志初使化成功
+2020-06-09 15:07:37,116 [DEBUG] 相机初使化参数{"system_ini":1,"ProgFrameTimeAbs":80,"ExposureTimeRaw":12500,"BinningHorizontal":4,"BinningVertical":4,"Width":480,"Height":270,"ReverseX":0,"PixelFormat":17825797,"TriggerMode":0,"TriggerActivation":0,"TriggerSource":27,"ExposureMode":1,"ProgFrameTimeEnable":1,"TriggerType":1,"GainRaw":134,"gpsport":1,"filePath":""}
+2020-06-09 15:07:37,314 [DEBUG] ProgFrameTimeAbs=80 12500.000000
